@@ -1,14 +1,12 @@
 ## Hi!! I'm Leticia!
 
-##
 - ⚡ I enjoy writing code and exploring new technologies
 - 🎓 BackEnd development student and FrontEnd enthusiast
 - 🔭 Currently working with Python and Data Science
 - 📫 How to reach me: leticiabsilva03@gmail.com or leticiabscoding@gmail.com
 
-##
-
 ### Languages and Tools:
+
 <div>
   <a href="https://github.com/leticiabsilva03">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=leticiabsilva03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -36,4 +34,4 @@
   <a href="mailto:leticiabscoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></'>
 <div>
 
-![Snake animation](https://github.com/leticiabsilva03/leticiabsilva03/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leticiabsilva03/leticiabsilva03/blob/output/github-contribution-grid-snake.svg)
