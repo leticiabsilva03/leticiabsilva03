@@ -32,5 +32,3 @@
     <a href="https://discord.gg/UuZan6fVY4" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="mailto:leticiabscoding@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div> 
-
-  ![Snake animation](https://github.com/leticiabsilva03/leticiabsilva03/blob/output/github-contribution-grid-snake.svg)
