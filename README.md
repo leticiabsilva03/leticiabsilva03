@@ -1,7 +1,6 @@
 ## <p align="center"> Hi!! I'm Leticia! </p>
 
 - ⚡ I enjoy writing code and exploring new technologies
-- 🎓 BackEnd development student and FrontEnd enthusiast
 - 🔭 Currently working with Python and Data Science
 - 📫 How to reach me: leticiabsilva03@gmail.com or leticiabscoding@gmail.com
 
