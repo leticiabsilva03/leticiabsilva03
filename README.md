@@ -1,33 +1,80 @@
-## <p align="center"> Hi!! I'm Leticia! </p>
+<!-- Header -->
+<div align="center">
 
-- ⚡ I enjoy writing code and exploring new technologies
-- 🔭 Currently working with Python and Data Science
-- 📫 How to reach me: leticiabsilva03@gmail.com or leticiabscoding@gmail.com
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="woman coding gif"/>
+
+# Hey, I'm Letícia Batista 👋
+
+**Backend Developer** · A passionate developer from Brazil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiabatistasilva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiabscoding@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UuZan6fVY4)
+
+</div>
+
+---
+
+## 🧠 About me
+
+```java
+public class Leticia extends BackendDeveloper {
+
+    String location     = "Brazil 🇧🇷";
+    String degree       = "Electrical Engineering — UFU";
+    String postGrad     = "MBA in Software Engineering — USP";
+    String currentFocus = "Java 21+ · Java 25 · Spring Boot 3 · REST APIs · AWS";
+    String status       = "Actively building. Always learning.";
+    
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/leticiabsilva03">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=leticiabsilva03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabsilva03&layout=compact&langs_count=16&theme=tokyonight"/>
- 
-   ### Languages and Tools:
-  <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Le-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Le-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Le-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-    <img align="center" alt="Le-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-    <img align="center" alt="Le-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Le-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Le-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Le-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Le-typescrit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">  
-    <img align="center" alt="Le-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Le-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-                                                          
-##
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=leticiabsilva03&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabsilva03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Currently
+
+- 🔨 Building REST APIs with **Java 21+ · Spring Boot 3**
+- 📖 Deep-diving into **Clean Architecture** and **Design Patterns**
+- 🧪 Learning proper **testing** with JUnit 5 + Testcontainers
+
+---
+
+## 📫 Reach me
+
+If you want to talk about Java, backend architecture, or trade book recommendations — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/letícia-batista-silva-3b4b98242) or drop me an [email](mailto:leticiabscoding@gmail.com).
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/letícia-batista-silva-3b4b98242" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/leticiabsilv_/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/UuZan6fVY4" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="mailto:leticiabscoding@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div> 
+
+</div>
